@@ -55,13 +55,13 @@
       "category": "Houseplants"
     },
     {
-      "img": "images/air-purifying-bundle.png",
+      "img": "images/air-purifying-bundle.jpg",
       "name": "Areca Palm, Sansevieria Futura Superba",
       "price": "999",
       "category": "Houseplant Sets"
     },
     {
-      "img": "images/air-purifying-bundle.webp",
+      "img": "images/air-purifying-bundle (1).jpg",
       "name": "Syngonium Pink, Money N Joy",
       "price": "999",
       "category": "Houseplant Sets"
@@ -121,7 +121,7 @@
       "category": "Plastic Pots"
     },
     {
-      "img": "images/7.5-inch-set-of-5-multi-1.webp",
+      "img": "images/7.5-inch-set-of-5-multi-1.jpg",
       "name": "Ugaoo Krish Self Watering Planter",
       "price": "149",
       "category": "Plastic Pots"
@@ -193,13 +193,13 @@
       "category": "Soil"
     },
     {
-      "img": "images/5-kg-cow-manure.webp",
+      "img": "images/7.5-inch-set-of-5-multi-1.jpg",
       "name": "Cow Manure",
       "price": "199",
       "category": "Fertilizer"
     },
     {
-      "img": "images/5-kg-vermicompost.webp",
+      "img": "images/5-kg-vermicompost.jpg",
       "name": "Vermicompost",
       "price": "199",
       "category": "Fertilizer"
