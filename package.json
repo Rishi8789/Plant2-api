@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "name": "plant2-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rishi8789/Plant2-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rishi8789/Plant2-api/issues"
+  },
+  "homepage": "https://github.com/Rishi8789/Plant2-api#readme",
+  "description": ""
+}
